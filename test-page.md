@@ -27,3 +27,7 @@ layout: page
 2. Item 2
 3. Item 3
 4. Item 4
+
+
+### My Flight Log
+<iframe src="./assets/images/my_flight_log.html" width="80%" height="500" style="border: none;" scrolling="no"></iframe>
